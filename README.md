@@ -5,7 +5,7 @@ Aspiring Penetration Tester
 I'm from French Polynesia, with a Computer Science degree (Bachelor's degree / Licence informatique) from France. I'm currently learning offensive cybersecurity with the goal of becoming a professional Pentester.
 
 Portfolio: [manuarii-loahyou.com](https://manuarii-loahyou.com/)<br>
-LinkedIn: [ton profil](lien)
+LinkedIn: [manuarii-lo-ah-you](https://www.linkedin.com/in/manuarii-lo-ah-you/)
 
 ## Featured Projects
 
